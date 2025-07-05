@@ -50,7 +50,7 @@
 
 <br>
 
-###🔗 참고 자료
+### 🔗 참고 자료
 - 📘 [게임 소개 블로그 글](https://lauriela8.github.io/posts/dodge-rush-intro/)
 - 🎥 [시연 영상 보기](https://lauriela8.github.io/posts/dodge-rush-video/)
 - 📄 [발표 자료 다운로드](./doc/발표자료.pdf)
