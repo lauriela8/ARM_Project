@@ -8,11 +8,25 @@
 
 <br>
 
-### 📽️ 시연 영상 & 발표자료
-- 🔗 [게임 시연 영상 보기](https://lauriela8.github.io/your-video-link)
-- 📑 [발표자료 보기](https://lauriela8.github.io/your-ppt-link)
+### 📽️ 시연 영상
+-  [게임 시연 영상 보기](video/임도엽_시연영상.mp4)
+-  [핵심 기능 영상 보기](video/임도엽_핵심영상.mp4)
 
 <br>
+
+### 📄 문서
+- [게임 설명서 보기](doc/임도엽_게임설명서_v1.pdf)
+- [발표자료 보기](doc/임도엽_발표자료.pdf)
+
+<br>
+
+### ⚙️ 실행 파일
+- [실행 파일 다운로드](bin/임도엽_실행파일.bin)
+
+<br>
+
+### 💻 소스 코드
+- [코드 보기](src/)
 
 ### 🛠 주요 기능
 - 실시간 조이스틱 입력을 통한 캐릭터 이동
@@ -47,13 +61,6 @@
 1. `bin/game.bin` 파일을 STM32 보드에 업로드합니다.
 2. 전원 인가 시 게임이 자동 실행됩니다.
 3. 조이스틱으로 플레이어를 움직여 적을 회피하세요!
-
-<br>
-
-### 🔗 참고 자료
-- 📘 [게임 소개 블로그 글](https://lauriela8.github.io/posts/dodge-rush-intro/)
-- 🎥 [시연 영상 보기](https://lauriela8.github.io/posts/dodge-rush-video/)
-- 📄 [발표 자료 다운로드](./doc/발표자료.pdf)
 
 ---
 
